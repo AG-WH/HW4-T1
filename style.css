@@ -45,16 +45,16 @@ ul {
   background: #1275b9 url(Svg_Icons/dashboard.svg) no-repeat center;
 }
 .three {
-  background: #1275b9 url(/Svg_Icons/cog.svg) no-repeat center;
+  background: #1275b9 url(Svg_Icons/cog.svg) no-repeat center;
 }
 .list-item:hover .one{
-    background: #ffffff url(/Svg_Icons/tablet-1.svg) no-repeat center;
+    background: #ffffff url(Svg_Icons/tablet-1.svg) no-repeat center;
 }
 .list-item:hover .two{
-    background: #ffffff url(/Svg_Icons/dashboard-1.svg) no-repeat center;
+    background: #ffffff url(Svg_Icons/dashboard-1.svg) no-repeat center;
 }
 .list-item:hover .three{
-    background: #ffffff url(/Svg_Icons/cog-1.svg) no-repeat center;
+    background: #ffffff url(Svg_Icons/cog-1.svg) no-repeat center;
 }
 h2 {
   font-family: "Source Sans Pro";
